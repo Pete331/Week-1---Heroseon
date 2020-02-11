@@ -23,7 +23,7 @@ header h1 {
 }
 
 header h1 #seo {
-    color: darkblue;
+    color: black;
 }
 
 header nav {
@@ -112,7 +112,7 @@ p {
     width: 22%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #0072bb;
     display: inline-block;
 }
 
