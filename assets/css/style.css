@@ -97,6 +97,7 @@ p {
   display: inline-block;
 }
 
+/* made images responsive but with a min width so doesnt get too small */
 #search-engine-optimization img,
 #online-reputation-management img,
 #social-media-marketing img {
@@ -123,6 +124,7 @@ p {
   background-color: #0072bb;
 }
 
+/* Could have put these all in the same class but instead I changed each to a seperate id in case one section was to be formatted differently in the future */
 #benefit-lead,
 #benefit-brand,
 #benefit-cost {
